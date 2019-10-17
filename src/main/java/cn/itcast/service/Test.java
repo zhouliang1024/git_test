@@ -10,7 +10,5 @@ public class Test {
         //b电脑上操作
         int b=1314;
         System.out.println(a+b);
-        int c=50;
-        System.out.println(c);
     }
 }
