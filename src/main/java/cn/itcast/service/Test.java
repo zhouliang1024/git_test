@@ -8,7 +8,7 @@ public class Test {
         }
         System.out.println(a);
         //a电脑上操作
-        int b=13;
+        int b=20;
         System.out.println(a+b);
     }
 }
