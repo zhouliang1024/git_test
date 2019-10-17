@@ -10,6 +10,6 @@ public class Test {
         //b电脑上操作
         int b=1314;
         System.out.println(a+b);
-
+        System.out.println("hahaha");
     }
 }
